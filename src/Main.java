@@ -8,19 +8,5 @@ public class Main {
         System.out.println(miles);
 
 
-
-
-
-
-
-        // int ticket = 15000;// стоимость билета
-       //  int perOne = 20;// количество рублей для одной бонусной милли
-
-       // int miles = ticket / perOne;
-
-
-        // System.out.println("Количество начисленных миль: " + miles);
-
-
     }
 }
